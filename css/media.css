@@ -1,0 +1,417 @@
+@media (max-width: 1330px) {
+  .blog-box {
+    padding: 35px 90px;
+  }
+}
+
+@media (max-width: 1220px) {
+  .blog-box {
+    padding: 35px 80px;
+  }
+  .blog-box h1 {
+    font-size: 37px;
+    width: 150p;
+  }
+  .blog-first h1 {
+    font-size: 48px;
+    width: 480px;
+  }
+  .pricing-box p {
+    width: 300px;
+  }
+}
+
+@media (max-width: 1160px) {
+  .home img {
+    width: 490px;
+  }
+  .home-btn img {
+    width: 25px;
+  }
+  .home-text h1 {
+    font-size: 68px;
+    width: 450px;
+  }
+}
+
+@media (max-width: 1135px) {
+  .blog-box {
+    padding: 35px 70px;
+  }
+  .blog-box h1 {
+    font-size: 33px;
+    width: 150p;
+  }
+  .index-text h1 {
+    font-size: 48px;
+    width: 490px;
+  }
+
+  .logos img {
+    width: 100px;
+  }
+
+  .index img {
+    width: 340px;
+  }
+  .Features-text h1 {
+    font-size: 48px;
+  }
+  .Features img {
+    width: 330px;
+  }
+}
+
+@media (max-width: 1068px) {
+  .blog-box {
+    padding: 32px 60px;
+  }
+  nav {
+    gap: 40px;
+  }
+  .home img {
+    width: 470px;
+  }
+  .home-btn img {
+    width: 25px;
+  }
+  .home-text h1 {
+    font-size: 65px;
+  }
+  .home-text p {
+    padding-block: 30px;
+  }
+  .index {
+    justify-content: space-between;
+  }
+  .index-text h1 {
+    font-size: 46px;
+    width: 470px;
+  }
+  .pricing-box p {
+    width: 280px;
+  }
+}
+
+@media (max-width: 1005px) {
+  .pricing-box p {
+    font-size: 15px;
+    width: 260px;
+  }
+  .blog-box {
+    padding: 32px 55px;
+  }
+  .blog-box h1 {
+    font-size: 30px;
+  }
+  .home img {
+    width: 450px;
+  }
+  .home-btn img {
+    width: 25px;
+  }
+  .home-text h1 {
+    font-size: 60px;
+  }
+  .index img {
+    width: 340px;
+  }
+}
+@media (max-width: 970px) {
+  .index-text h1 {
+    width: 450px;
+  }
+  .blog-first h1 {
+    font-size: 47px;
+    width: 480px;
+  }
+  .blog-box h1 {
+    font-size: 29px;
+  }
+  .blog-box p {
+    font-size: 15px;
+  }
+  .home img {
+    width: 440px;
+  }
+  .home-btn img {
+    width: 25px;
+  }
+  .home-text h1 {
+    font-size: 59px;
+    width: 430px;
+  }
+  .pricing-box p {
+    font-size: 14px;
+    width: 240px;
+  }
+}
+@media (max-width: 955px) {
+  .Features-text {
+    width: 440px;
+  }
+  .header img {
+    width: 190px;
+  }
+  nav {
+    gap: 35px;
+  }
+  .pricing-box img {
+    width: 140px;
+  }
+  .index-text h1 {
+    width: 440px;
+  }
+  .index-text h1 {
+    width: 440px;
+  }
+  .blog-first h1 {
+    font-size: 45px;
+    width: 460px;
+  }
+  .blog-box h1 {
+    font-size: 28px;
+  }
+  .blog-box p {
+    font-size: 14px;
+  }
+  .home img {
+    width: 430px;
+  }
+  .home-text h1 {
+    width: 410px;
+  }
+  .index img {
+    width: 330px;
+  }
+  .home-btn img {
+    width: 25px;
+  }
+  .blog-box {
+    padding: 31px 50px;
+  }
+}
+
+@media (max-width: 930px) {
+  .Features-text {
+    width: 420px;
+  }
+  .Features img {
+    width: 320px;
+  }
+  .home-text h1 {
+    width: 390px;
+    font-size: 57px;
+  }
+  .home-btn img {
+    width: 23px;
+  }
+  .home-btn button {
+    padding: 13px 37px;
+  }
+  .header button {
+    padding: 11px 34px;
+  }
+  nav {
+    gap: 30px;
+    font-size: 15px;
+  }
+  .index-text h1 {
+    font-size: 44px;
+  }
+  .Features-text h1 {
+    font-size: 44px;
+  }
+  .index-text {
+    width: 420px;
+  }
+  .logos img {
+    width: 90px;
+  }
+  .Features-text {
+    width: 400px;
+  }
+  .Features img {
+    width: 300px;
+  }
+  .index img {
+    width: 310px;
+  }
+  .pricing-box img {
+    width: 130px;
+  }
+  .pricing-box p {
+    font-size: 13px;
+    width: 220px;
+  }
+  .blog-first h1 {
+    font-size: 43px;
+    width: 430px;
+  }
+  .blog-box {
+    padding: 31px 45px;
+  }
+}
+@media (max-width: 890px) {
+  .blog-box {
+    padding: 31px 40px;
+  }
+  .blog-first_text button {
+    padding: 13px 35px;
+  }
+  .home-text {
+    width: 370px;
+  }
+  .logos img {
+    width: 80px;
+  }
+  .index-text h1 {
+    width: 430px;
+  }
+  .Features-text h1 {
+    width: 380px;
+  }
+  .Features-text {
+    width: 380px;
+  }
+  .pricing-box img {
+    width: 120px;
+  }
+  .pricing-box h4 {
+    font-size: 22px;
+  }
+  .blog-first h1 {
+    font-size: 41px;
+    width: 400px;
+  }
+}
+
+@media (max-width: 860px) {
+  .home img {
+    width: 410px;
+  }
+  .home-btn img {
+    width: 23px;
+  }
+  .home-text h1 {
+    width: 370px;
+    font-size: 55px;
+  }
+  .home-text p {
+    padding-block: 25px;
+    font-size: 14px;
+    width: 340px;
+  }
+  .index-text h1 {
+    font-size: 42px;
+    width: 420px;
+  }
+  .index img {
+    width: 300px;
+  }
+  .index-text p {
+    font-size: 15px;
+    width: 400px;
+  }
+  .Features-text h1 {
+    font-size: 42px;
+    width: 360px;
+  }
+  .Features-text p {
+    font-size: 15px;
+    width: 370px;
+  }
+  .pricing-box img {
+    width: 110px;
+  }
+  .pricing-box p {
+    font-size: 13px;
+    width: 200px;
+  }
+  .blog-first h1 {
+    font-size: 39px;
+    width: 380px;
+  }
+  nav {
+    gap: 25px;
+    font-size: 14px;
+  }
+  .blog-box {
+    padding: 31px 35px;
+  }
+}
+
+@media (max-width: 819px) {
+  .home {
+    flex-direction: column;
+    flex-direction: column-reverse;
+    gap: 50px;
+  }
+  #logos {
+    padding-block: 25px;
+  }
+  .home-text {
+    width: 400px;
+    text-align: center;
+  }
+  .home-btn {
+    justify-content: center;
+  }
+  .logos {
+    flex-direction: column;
+    gap: 40px;
+  }
+  #index {
+    padding-block: 30px;
+  }
+  .index {
+    flex-direction: column;
+    gap: 35px;
+  }
+  .index-text {
+    text-align: center;
+  }
+  #Features {
+    padding-block: 20px;
+  }
+  .Features {
+    flex-direction: column;
+    flex-direction: column-reverse;
+  }
+  #Features {
+    padding-block: 25px;
+  }
+  #pricing {
+    padding-block: 25px;
+  }
+  .pricing {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .blog-first {
+    flex-direction: column;
+    gap: 25px;
+    justify-content: center;
+  }
+  .blog-block {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .blog-box {
+    padding: 33px 45px;
+  }
+  .header button {
+    display: none;
+  }
+  .burger-menu img {
+    width: 40px;
+    cursor: pointer;
+  }
+
+  nav {
+    display: none;
+  }
+  .burger-menu {
+    display: flex;
+  }
+}
